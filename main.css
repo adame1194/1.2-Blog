@@ -1,0 +1,34 @@
+header {
+  background-size: cover;
+  background-image: url(https://unsplash.it/1420/290) center center fixed;
+  position:absolute;
+  top: 0;
+  left: 0;
+}
+
+body{
+  margin: 0, auto;
+  width: 100%;
+}
+
+article{
+  width: 650px;
+  top: 350px;
+  position: relative;
+  left: 400px;
+  padding-bottom: 50px;
+}
+
+aside {
+  width: 250px;
+}
+
+.circles {
+  border-radius: 100%;
+  height: 110px;
+  width: 110px;
+  border: 5px solid: white;
+  position: relative;
+  bottom: 125px;
+  right: 200px;
+}
